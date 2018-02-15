@@ -1,0 +1,3 @@
+Pls run it in turbo C or turbo C++.
+Becouse this software contain conio.h and stdio.h header file.
+This program is develop in turbo C++ windows10 64 bit(x64 architecture).
